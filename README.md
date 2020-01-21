@@ -17,3 +17,5 @@ To run this application, download STS or eclipse
 
 Adjust port number as needed from application.properties file
 
+![Application design](/example-application.png)
+
