@@ -4,6 +4,8 @@ This application is akin to regular "Hello, World" application we have been usin
 This application was developed to show the principles microservices and understand the difference in architecture style between monolitic and microservices.
 Application simply demonstrate how a random sentence can be  generated from bunch of smaller applications each responsible for returning one and only one part of speech.
 
+Application uses spring.io and spring cloud under the hood
+
 To run this application, download STS or eclipse
 - start monolithicexample application
 - start adjective server
